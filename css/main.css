@@ -109,6 +109,7 @@
      width: 25px;
      height: 25px;
      margin-right: 10px;
+     display: none;
 }
  #discord-buttonm .iconm svg {
      fill: white;
